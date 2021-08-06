@@ -6,6 +6,9 @@
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=debaetslaura)](https://github.com/debaetslaura/github-readme-stats)
 
+[![Laura's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debaetslaura)](https://github.com/debaetslaura/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaetslaura&layout=compact)](https://github.com/debaetslaura/github-readme-stats)
 
 
