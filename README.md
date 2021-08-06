@@ -4,7 +4,7 @@
 - 📫 laura.de.baets@hotmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaetslaura)](https://github.com/debaetslaura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaetslaura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
