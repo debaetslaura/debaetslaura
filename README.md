@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debaetslaura
 - 👀 I’m interested in elektronics, radio's and new stuff...
-- 🌱 I’m currently learning elektronics-ICT at Bruges
+- 🌱 I completed the bachelor elektronics-ICT at Bruges and start next year to my master :)
 - 📫 laura.de.baets@hotmail.com
 
 <!---
